@@ -1,5 +1,7 @@
 // https://www.hackerrank.com/contests/codesh/challenges/cow-and-bull
 
+// https://codepad.remoteinterview.io/PCYTRGBFUU
+
 // COW -- # letter in guessed word also in chosen word but at incorrect position
 
 // BULL -- # letters in guessed word also in chosen word at correct position
